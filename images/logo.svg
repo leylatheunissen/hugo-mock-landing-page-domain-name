@@ -1,0 +1,17 @@
+<svg
+    width="150" height="150"
+    viewBox="0 0 24 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- File Outline -->
+    <rect x="4" y="2" width="16" height="20" rx="2" ry="2" stroke="#000" stroke-width="2" fill="white"/>
+    <!-- Folded Corner -->
+    <path d="M16 2V6C16 6.55 16.45 7 17 7H21" fill="none" stroke="#000" stroke-width="2"/>
+    <!-- Resume Lines -->
+    <line x1="6" y1="10" x2="18" y2="10" stroke="#000" stroke-width="2"/>
+    <line x1="6" y1="14" x2="14" y2="14" stroke="#000" stroke-width="2"/>
+    <line x1="6" y1="18" x2="12" y2="18" stroke="#000" stroke-width="2"/>
+    <!-- Profile Circle -->
+    <circle cx="8" cy="6" r="2" stroke="#000" stroke-width="2" fill="white"/>
+</svg>

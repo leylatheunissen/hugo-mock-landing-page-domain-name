@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on SkillScript</title>
+    <link>https://leylatheunissen.github.io/hugo-mock-landing-page/categories/basics/</link>
+    <description>Recent content in Basics on SkillScript</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Leyla Theunissen</copyright>
+    <lastBuildDate>Thu, 06 Feb 2025 14:47:29 -0500</lastBuildDate>
+    <atom:link href="https://leylatheunissen.github.io/hugo-mock-landing-page/categories/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Importance of Tailoring Your Resume</title>
+      <link>https://leylatheunissen.github.io/hugo-mock-landing-page/post/tailoring-resume/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://leylatheunissen.github.io/hugo-mock-landing-page/post/tailoring-resume/</guid>
+      <description>&lt;p&gt;In today&amp;rsquo;s competitive job market, a one-size-fits-all resume simply won’t cut it. Recruiters and hiring managers receive hundreds of applications per role, and research shows that they spend an average of &lt;strong&gt;6-7 seconds&lt;/strong&gt; scanning each resume (Ladders, 2018). To stand out, job seekers must tailor their resumes to highlight the most relevant skills, experience, and achievements that align with the specific role they’re applying for.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-role-of-applicant-tracking-systems-ats&#34;&gt;The Role of Applicant Tracking Systems (ATS)&lt;/h3&gt;&#xA;&lt;p&gt;Most companies use &lt;strong&gt;Applicant Tracking Systems (ATS)&lt;/strong&gt; to filter resumes before they even reach human eyes. According to Jobscan, &lt;strong&gt;75% of resumes are never seen by a recruiter&lt;/strong&gt; because they don’t contain the right keywords (Jobscan, 2023). By carefully analyzing the job description and incorporating relevant industry-specific keywords, applicants can increase their chances of passing ATS filters and landing an interview.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
