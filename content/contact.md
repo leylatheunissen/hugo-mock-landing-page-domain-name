@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-Find me on [GitHub](https://github.com/leylatheunissen). Looking forward to hearing from you!
+[Open an issue](https://github.com/leylatheunissen/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
